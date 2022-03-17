@@ -1,0 +1,79 @@
+edu/qc/seclass/glm/ListsAdapter.java
+ edu.qc.seclass.glm.ListsAdapter
+ edu.qc.seclass.glm.ListsAdapter$OnLongClickListener
+ edu.qc.seclass.glm.ListsAdapter$ViewHolder
+ edu.qc.seclass.glm.ListsAdapter$ViewHolder$1
+ edu.qc.seclass.glm.ListsAdapter$ViewHolder$2
+edu/qc/seclass/glm/BuildConfig.java
+ edu.qc.seclass.glm.BuildConfig
+edu/qc/seclass/glm/AddItemByTypeActivity.java
+ edu.qc.seclass.glm.AddItemByTypeActivity
+edu/qc/seclass/glm/databinding/ActivityAddItemByTypeBinding.java
+ edu.qc.seclass.glm.databinding.ActivityAddItemByTypeBinding
+edu/qc/seclass/glm/databinding/FragmentSecondBinding.java
+ edu.qc.seclass.glm.databinding.FragmentSecondBinding
+edu/qc/seclass/glm/databinding/ActivityAddItemBinding.java
+ edu.qc.seclass.glm.databinding.ActivityAddItemBinding
+edu/qc/seclass/glm/databinding/ActivityMainBinding.java
+ edu.qc.seclass.glm.databinding.ActivityMainBinding
+edu/qc/seclass/glm/EditItemActivity.java
+ edu.qc.seclass.glm.EditItemActivity
+ edu.qc.seclass.glm.EditItemActivity$1
+edu/qc/seclass/glm/Database.java
+ edu.qc.seclass.glm.Database
+edu/qc/seclass/glm/MainActivity.java
+ edu.qc.seclass.glm.MainActivity
+ edu.qc.seclass.glm.MainActivity$1
+ edu.qc.seclass.glm.MainActivity$2
+edu/qc/seclass/glm/databinding/ActivitySearchItemBinding.java
+ edu.qc.seclass.glm.databinding.ActivitySearchItemBinding
+edu/qc/seclass/glm/databinding/ActivityListBinding.java
+ edu.qc.seclass.glm.databinding.ActivityListBinding
+edu/qc/seclass/glm/ItemAdapter.java
+ edu.qc.seclass.glm.ItemAdapter
+ edu.qc.seclass.glm.ItemAdapter$OnLongClickListener
+ edu.qc.seclass.glm.ItemAdapter$ViewHolder
+ edu.qc.seclass.glm.ItemAdapter$ViewHolder$1
+ edu.qc.seclass.glm.ItemAdapter$ViewHolder$2
+ edu.qc.seclass.glm.ItemAdapter$ViewHolder$3
+edu/qc/seclass/glm/Item.java
+ edu.qc.seclass.glm.Item
+edu/qc/seclass/glm/AddItemActivity.java
+ edu.qc.seclass.glm.AddItemActivity
+ edu.qc.seclass.glm.AddItemActivity$1
+ edu.qc.seclass.glm.AddItemActivity$2
+ edu.qc.seclass.glm.AddItemActivity$3
+ edu.qc.seclass.glm.AddItemActivity$4
+edu/qc/seclass/glm/databinding/ActivityEditItemBinding.java
+ edu.qc.seclass.glm.databinding.ActivityEditItemBinding
+edu/qc/seclass/glm/CreateItemActivity.java
+ edu.qc.seclass.glm.CreateItemActivity
+ edu.qc.seclass.glm.CreateItemActivity$1
+edu/qc/seclass/glm/databinding/ActivityCreateItemBinding.java
+ edu.qc.seclass.glm.databinding.ActivityCreateItemBinding
+edu/qc/seclass/glm/EditListNameActivity.java
+ edu.qc.seclass.glm.EditListNameActivity
+ edu.qc.seclass.glm.EditListNameActivity$1
+edu/qc/seclass/glm/databinding/ListItemBinding.java
+ edu.qc.seclass.glm.databinding.ListItemBinding
+edu/qc/seclass/glm/ItemTypeAdapter.java
+ edu.qc.seclass.glm.ItemTypeAdapter
+ edu.qc.seclass.glm.ItemTypeAdapter$1
+edu/qc/seclass/glm/SearchItemActivity.java
+ edu.qc.seclass.glm.SearchItemActivity
+ edu.qc.seclass.glm.SearchItemActivity$1
+ edu.qc.seclass.glm.SearchItemActivity$2
+ edu.qc.seclass.glm.SearchItemActivity$3
+edu/qc/seclass/glm/ListActivity.java
+ edu.qc.seclass.glm.ListActivity
+ edu.qc.seclass.glm.ListActivity$1
+ edu.qc.seclass.glm.ListActivity$2
+ edu.qc.seclass.glm.ListActivity$3
+ edu.qc.seclass.glm.ListActivity$4
+ edu.qc.seclass.glm.ListActivity$5
+edu/qc/seclass/glm/databinding/FragmentFirstBinding.java
+ edu.qc.seclass.glm.databinding.FragmentFirstBinding
+edu/qc/seclass/glm/databinding/ContentAddItemBinding.java
+ edu.qc.seclass.glm.databinding.ContentAddItemBinding
+edu/qc/seclass/glm/databinding/ActivityEditListNameBinding.java
+ edu.qc.seclass.glm.databinding.ActivityEditListNameBinding
